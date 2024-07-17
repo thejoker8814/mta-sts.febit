@@ -1,6 +1,5 @@
 version: STSv1
 mode: enforce
-mx: *.febit.systems
 mx: *.febit.eu
 mx: mxext1.mailbox.org
 mx: mxext2.mailbox.org
